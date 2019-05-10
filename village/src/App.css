@@ -1,3 +1,23 @@
 .App {
   text-align: center;
 }
+
+.nav {
+  border: 5px solid blue;
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 80%;
+  padding: 10px;
+}
+
+.nav-item {
+  margin: 10px;
+
+}
+
+a:-webkit-any-link { 
+  border: 1px solid dodgerblue;
+  text-decoration: none;
+  color: white;
+  background-color: dodgerblue;
+}
