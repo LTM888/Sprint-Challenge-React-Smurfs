@@ -35,7 +35,7 @@ The main differences between the two are how they handle a request is handled. W
 (Create, Read, Update, Delete)
 
 - [ ] Mention three tools we can use to make AJAX requests.
-
+Ajax , fetch and Axios.
 
 ## Project Set Up
 
