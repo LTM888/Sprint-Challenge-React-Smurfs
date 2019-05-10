@@ -1,12 +1,15 @@
 .App {
   text-align: center;
+  background: rgb(191, 199, 235);
+  margin: 0 auto;
+  width: auto;
 }
 
 .nav {
   border: 5px solid blue;
   margin: 0 auto;
   margin-top: 10px;
-  width: 80%;
+  width: 50%;
   padding: 10px;
 }
 
@@ -16,8 +19,19 @@
 }
 
 a:-webkit-any-link { 
-  border: 1px solid dodgerblue;
+  display: inline-block;
+  margin: 15px;
   text-decoration: none;
-  color: white;
-  background-color: dodgerblue;
+}
+
+button {
+  background: dodgerblue;
+  border: 1px solid lightskyblue;
+}
+
+.Smurf {
+  border: 2px solid white;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10px;
 }
